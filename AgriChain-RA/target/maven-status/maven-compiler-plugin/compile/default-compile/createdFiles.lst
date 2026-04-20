@@ -1,0 +1,6 @@
+com\cts\agrichainra\DTO\ReportDTO.class
+com\cts\agrichainra\Entity\Report.class
+com\cts\agrichainra\AgriChainRaApplication.class
+com\cts\agrichainra\Service\ReportService.class
+com\cts\agrichainra\Controller\ReportController.class
+com\cts\agrichainra\Repository\ReportRepository.class
